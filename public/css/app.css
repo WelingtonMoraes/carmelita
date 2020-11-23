@@ -1,6 +1,25 @@
-.teste {
-  height: 100px;
+.welcome {
   width: 100%;
-  background-color: aqua;
+}
+
+.welcome .oval_g {
+  position: absolute;
+  top: 0px;
+  right: 0px;
+}
+
+.welcome .oval_p {
+  position: absolute;
+  left: 0px;
+  top: 281px;
+}
+
+body {
+  background-color: #E5E5E5;
+}
+
+body .content {
+  max-width: 1280px;
+  margin: 0 auto;
 }
 
